@@ -264,5 +264,3 @@ As técnicas aprendidas ajudam no entendimento da perspectiva ofensiva, permitin
     ├── dvwa_medusa.txt
     └── smb_medusa.txt
 ```
-
-Só me pedir!
